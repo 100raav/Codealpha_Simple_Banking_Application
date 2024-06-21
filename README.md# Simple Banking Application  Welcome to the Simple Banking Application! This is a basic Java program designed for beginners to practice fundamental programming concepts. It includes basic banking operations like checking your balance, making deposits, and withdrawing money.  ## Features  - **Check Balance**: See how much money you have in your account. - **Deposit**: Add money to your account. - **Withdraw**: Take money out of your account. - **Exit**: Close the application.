@@ -1,0 +1,10 @@
+ Simple Banking Application
+
+Welcome to the Simple Banking Application! This is a basic Java program designed for beginners to practice fundamental programming concepts. It includes basic banking operations like checking your balance, making deposits, and withdrawing money.
+
+ Features
+
+- Check Balance: See how much money you have in your account.
+- Deposit: Add money to your account.
+- Withdraw: Take money out of your account.
+- Exit: Close the application.
